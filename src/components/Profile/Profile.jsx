@@ -2,7 +2,7 @@ import MyPost from './MyPost/MyPost'
 import s from './Profile.module.css'
 
 const Profile = () => {
-  return (<div className={`${s.content} ${s.active}`}>
+  return (<div>
     <div>
       <img
         className={s.Image}

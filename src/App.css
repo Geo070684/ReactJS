@@ -57,3 +57,10 @@ ul {
   grid-template-columns: 2fr 10fr;
   grid-gap: 10px;
 }
+
+.app-wrapper-content{
+
+    grid-area: c;
+    background-color: rgb(208, 234, 122);
+  
+}
