@@ -1,0 +1,9 @@
+.image {
+  max-width: 100%;
+  height: auto;
+} 
+
+.discriptionBlock {
+  padding: 20px;
+  font-size: 1.5rem;
+}
