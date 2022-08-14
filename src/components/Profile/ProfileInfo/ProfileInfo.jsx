@@ -8,7 +8,7 @@ const ProfileInfo = () => {
         src="https://klike.net/uploads/posts/2019-06/1561526578_1.jpg"
         alt="img" ></img>
       <div className= {s.discriptionBlock}>
-        + discription
+        discription
       </div>
     </div>
   </div>)
